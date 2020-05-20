@@ -1,11 +1,13 @@
 # MyRPG / Heimdall
-A custom tower defense made in group of 4 with the __CSFML Lib__ .<br />
+A fantasy RPG made in group of 4 with the __CSFML Lib__ .<br />
 <kbd>./my_rpg -h for usage <kdb /> <br />
 
 Project made in __C__ with __Maxime Le-borgne, Ilias Lamrani, Yheb Kanzari__.
 
 
- Our main goal was to create and develop a __nice and pleasant game__ focused on a __smooth gameplay__ and __great UI__.<br />
+
+ Our main goal was to create and develop a __nice and pleasant game__ focused on a __smooth gameplay__ and __great UI__ without having any crash.<br />
+
 
 ## Introduction
 Graphical project where the rules are as follows :
@@ -32,3 +34,6 @@ Graphical project where the rules are as follows :
 
 ## Author
  * Christophe Sourinthone
+ 
+## License
+This project is licensed under the BSD 2-Clause "Simplified" License - see the LICENSE.md file for details<br />
