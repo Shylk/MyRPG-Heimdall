@@ -23,7 +23,7 @@ Graphical project where the rules are as follows :
 :arrow_right: Executing the program leads you to the menu screen
  * Settings, and how to play windows can be opened with the buttons on the top left. Then you can get to the level selection with the play button.
   
-[![menu.png](https://imgur.com/D1vQC9x.png)](https://imgur.com/D1vQC9x.png)
+[![menu.png](https://imgur.com/JMt3aak.png)](https://imgur.com/JMt3aak.png)
 
 ## Additional features (Bonus)
  
