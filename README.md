@@ -25,11 +25,11 @@ Graphical project where the rules are as follows :
  ![movements](gif/test.gif)
  
  * ### Quest examples
-  ![quests](gif/priest.gif)
-  
- * ### UI examples
-#### Quest log
 The first quest out of the 3 others
+ ![quests](gif/priest.gif)
+
+* ### UI examples
+#### Quest log
  ![questslog](gif/quest_log.gif)
 #### Minimap
  ![minimap](gif/minimap.gif)
