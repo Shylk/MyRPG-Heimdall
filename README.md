@@ -20,17 +20,9 @@ Graphical project where the rules are as follows :
   * With enough experience, the player can level up, upgrading its statistics.<br />
 
 ## Demonstration
-:arrow_right: Executing the program leads you to the menu screen
- * Settings, and how to play windows can be opened with the buttons on the top left. Then you can get to the level selection with the play button.
+ * ### Menu screen 
+ ![demo_menu](gif/menu.gif)
   
-[![menu.png](https://imgur.com/JMt3aak.png)](https://imgur.com/JMt3aak.png)
-
-## Additional features (Bonus)
- 
- * :zap: Mana system : 3 spells that can be cast (Fireball, Freeze, break defense). 
- * :house_with_garden: 3 differents levels, with different map.
- *  :heavy_exclamation_mark: 3 levels of difficulty (easy, normal, hard).
- * :stars: An animated introduction when the game is launched.
 
 ## Author
  * Christophe Sourinthone
