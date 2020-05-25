@@ -37,7 +37,7 @@ The first quest out of the 3 others
 #### Inventory
  ![inventory](gif/invetory.gif)
 #### Skill tree
-Bonuses may be purchased depending the number of "xp" (green ball on the right) you have.<br />
+Bonuses may be purchased depending of the number of "xp" (green ball on the right) you have.<br />
 Either you chose to upgrade your damages or increase potion efficiency
  ![skill_tree](gif/skill_tree.gif)
 
